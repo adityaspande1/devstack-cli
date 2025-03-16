@@ -1,0 +1,5 @@
+{
+    "name":"React+Vite",
+    "description":"A modern frontend stack with React and Vite",
+    "types":["ts","js"]
+}
